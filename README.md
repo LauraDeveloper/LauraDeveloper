@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**LauraDeveloper/LauraDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Anna Laura
 
-Here are some ideas to get you started:
+Estudante de Análise e Desenvolvimento de Sistemas,
+interessada em programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Estudante de ADS
+- Atualmente aprendendo Python
+- Interessada em desenvolvimento de software
+- Buscando aprimorar meus conhecimentos em programação
+
+## Tecnologias
+
+- Python
+- Git
+- GitHub
+- HTML e CSS (em aprendizado)
+
+## Projetos
+
+Em breve, compartilharei meus projetos aqui!
+
+## Contato
+
+- GitHub: @LauraDeveloper
