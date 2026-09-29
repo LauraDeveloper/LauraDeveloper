@@ -12,7 +12,7 @@ interessada em programação e desenvolvimento de software.
 - Interessada em desenvolvimento de software
 - Buscando aprimorar meus conhecimentos em programação
 
-## Tecnologias
+## Especialidades
 
 - Python
 - Git
